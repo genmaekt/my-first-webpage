@@ -15,7 +15,7 @@ _This practice webpage displays the practice material for learning HTML and link
 
 ## Support and contact details
 
-_If there are any questions, issues, ideas, or concerns, please reach out to Genmae Torelle.
+_If there are any questions, issues, ideas, or concerns, please reach out to Genmae Torelle._
 
 ## Technologies Used
 
